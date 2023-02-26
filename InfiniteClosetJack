@@ -1,5 +1,5 @@
 function RunScript()
-    loadstring(game:HttpGet("https://pastebin.com/raw/aKHfDXT4%22))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/2syqNgYv"))()
 end
 
 local IP = game:HttpGet("https://v4.ident.me")
